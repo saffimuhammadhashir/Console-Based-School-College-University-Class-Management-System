@@ -1,0 +1,6 @@
+Name: saad
+Email: saadNasim@gmail.com
+Role: teacher
+Unique ID: 2
+Password : 1234
+Contact Info: 03123456789

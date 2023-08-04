@@ -1,0 +1,9 @@
+Class Name: pf
+subject_in_class: n_class: pf
+Teacher_in_class: n_class: hashir
+Description_in_class: n_class: pf
+Grades:
+3 100
+4 75
+5 50
+6 25

@@ -1,0 +1,33 @@
+Class Name: pf
+Subject: Programming Fundamentals
+Teacher: Saffi Muhammad Hashir
+Description: Fundamental programming concepts include a set of basic principles and related terminologies that programmers follow to write code that is simple to understand, modular, and efficient.
+Grades:
+3 0
+4 0
+5 0
+6 0
+
+
+Class Name: oop
+Subject: Object Oriented Programming
+Teacher: Saad Nasim
+Description: In object-oriented programming data structures, or objects are defined, each with its own properties or attributes.
+Grades:
+3 0
+4 0
+5 0
+6 0
+
+
+Class Name: dld
+subject: Digital Logics and Designs
+Teacher: Saad Nasim
+Description: Digital logic design is a system in electrical and computer engineering that uses simple number values to produce input and output operations.
+Grades:
+3 0
+4 0
+5 0
+6 0
+ 
+

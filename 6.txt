@@ -1,0 +1,6 @@
+Name: amir
+Email: amir.khan@gmail.com
+Role: student
+Unique ID: 5
+Password : 1234
+Contact Info: 03123456789

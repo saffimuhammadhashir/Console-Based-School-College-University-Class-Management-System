@@ -1,0 +1,6 @@
+Name: alex
+Email: alex@gmail.com
+Role: student
+Unique ID: 4
+Password : 1234
+Contact Info: 03123456789

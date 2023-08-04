@@ -1,0 +1,6 @@
+Name: ali
+Email: alimuhammad@gmail.com
+Role: student
+Unique ID: 3
+Password : 1234
+Contact Info: 03123456789
